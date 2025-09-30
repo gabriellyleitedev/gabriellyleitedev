@@ -17,7 +17,10 @@
 ## 📊 GitHub Stats
 ![Gabrielly's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriellyleitedev&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellyleitedev&layout=compact&theme=radical)
+
 ---
 
 ## 🌎 Conecte-se comigo
-[![LinkedIn](https://www.linkedin.com/in/gabriellyleite-dev?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriellyleite-dev?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+📧 **Email:** [gabriellydossantosleite3@gmail.com](mailto:gabriellydossantosleite3@gmail.com)
