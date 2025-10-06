@@ -2,7 +2,7 @@
 
 💻 Estudante de Desenvolvimento de Sistemas | 🚀 Explorando Front-End e Back-End  
 📚 Atualmente aprendendo: **Java, JavaScript e React**  
-🌱 Buscando oportunidades de estágio/júnior  
+🌱 Desenvolvedora júnior/estágio ti
 
 ---
 
