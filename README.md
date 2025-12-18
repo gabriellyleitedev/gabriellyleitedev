@@ -4,8 +4,10 @@
 - 🚀 Explorando Front-End e Back-End na prática
 - 📚 Atualmente estudando: JavaScript, React.js e Java
 - 🌱 Em busca de oportunidade como estagiária / desenvolvedora júnior em TI
----
+
 Sou apaixonada por tecnologia, aprendizado contínuo e construção de projetos reais. Tenho focado em entender a base, a estrutura e o funcionamento das aplicações, não apenas fazer funcionar, mas aprender como e por que as coisas funcionam.
+
+---
 
 ## 🚀 Tecnologias que uso
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
