@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou a Gabrielly Leite!
 
-### 🚀 Co-fundadora & CTO da Treeyo | Full Stack Developer
+### 🚀 Co-founder & CTO da Treeyo | Full Stack Developer
 
 Atualmente lidero a frente tecnológica da **Treeyo**, transformando desafios de negócios em produtos digitais escaláveis. Meu foco é construir arquiteturas limpas e experiências de usuário que realmente gerem impacto, unindo a visão técnica com a estratégia de produto.
 
