@@ -19,11 +19,22 @@ Atualmente lidero a frente tecnológica da **Treeyo**, transformando desafios de
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Minha Atividade no GitHub
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=gabriellyleitedev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=gabriellyleitedev&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabriellyleitedev&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas de Gabrielly" />
 </p>
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,js,tailwind,mongodb,postgres,git,docker,figma" />
+  </a>
+</p>
+
+> _"Construindo o futuro da Treeyo, um commit de cada vez."_
 
 > _Os gráficos acima refletem minha atividade diária e as tecnologias que mais domino no momento._
 
