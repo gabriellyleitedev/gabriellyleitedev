@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Gabrielly!
+# 👋 Olá, eu sou a Gabrielly Leite!
 
 - 💻 Estudante de Desenvolvimento de Sistemas
 - 🚀 Explorando Front-End e Back-End na prática
