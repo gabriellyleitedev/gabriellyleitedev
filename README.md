@@ -21,8 +21,8 @@ Atualmente lidero a frente tecnológica da **Treeyo**, transformando desafios de
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellyleitedev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellyleitedev&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellyleitedev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellyleitedev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 > _Os gráficos acima refletem minha atividade diária e as tecnologias que mais domino no momento._
