@@ -44,7 +44,7 @@ Atualmente lidero a frente tecnológica da **Treeyo**, transformando desafios de
 
 ---
 <p align="center">
-  "O código é a ferramenta, o produto é o impacto." 🚀
+  O código é a ferramenta, o produto é o impacto. 🚀
 </p>
 
 
