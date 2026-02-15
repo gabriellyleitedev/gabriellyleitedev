@@ -2,7 +2,7 @@
 
 ### 🚀 Co-founder & CTO na Treeyo | Full Stack Developer
 
-Atualmente lidero a frente tecnológica da **Treeyo**, transformando desafios de negócios em produtos digitais escaláveis. Meu foco é construir arquiteturas limpas e experiências de usuário que realmente gerem impacto, unindo a visão técnica com a estratégia de produto.
+Atualmente lidero a frente tecnológica na **Treeyo**, transformando desafios de negócios em produtos digitais escaláveis. Meu foco é construir arquiteturas limpas e experiências de usuário que realmente gerem impacto, unindo a visão técnica com a estratégia de produto.
 
 - 🛠️ **Desenvolvendo:** Soluções financeiras e dashboards de alta performance.
 - ⚙️ **Stack Foco:** React.js, Tailwind CSS, JavaScript | Explorando o ecossistema Node.js e MongoDB.
