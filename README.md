@@ -34,7 +34,7 @@ Atualmente lidero a frente tecnológica da **Treeyo**, transformando desafios de
   </a>
 </p>
 
-> _"Construindo o futuro da Treeyo, um commit de cada vez."_
+> _Construindo o futuro da Treeyo, um commit de cada vez._
 
 ---
 
