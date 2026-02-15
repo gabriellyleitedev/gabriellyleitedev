@@ -10,8 +10,6 @@ Atualmente lidero a frente tecnológica da **Treeyo**, transformando desafios de
 
 ---
 
----
-
 ## 🛠️ Tecnologias & Ferramentas
 
 ### 💻 No meu dia a dia (Core)
