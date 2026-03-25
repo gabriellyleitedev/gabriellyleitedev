@@ -1,12 +1,14 @@
-# 👋 Olá, eu sou a Gabrielly Leite!
+👋 Olá, eu sou a Gabrielly Leite!
 
-### 🚀 Full Stack Developer | Lead Developer na Treeyo
+### 🚀 Full Stack Developer
 
-Atualmente desenvolvendo a arquitetura e o ecossistema da Treeyo, transformando desafios de negócios em produtos digitais escaláveis. Meu foco é construir arquiteturas limpas e experiências de usuário que realmente gerem impacto, unindo a visão técnica com a estratégia de produto.
+Desenvolvendo sistemas e dashboards com foco em organização de dados e experiência do usuário.
 
-- 🛠️ **Desenvolvendo:** Soluções financeiras e dashboards de alta performance.
-- ⚙️ **Stack Foco:** React.js, Tailwind CSS, JavaScript | Explorando o ecossistema Node.js e MongoDB.
-- 🎯 **Foco Atual:** Arquitetura de Software e Experiência do Usuário (UX).
+Atualmente construindo um sistema financeiro (Treeyo), aplicando React.js, Node.js e lógica de negócios para resolver problemas reais.
+
+- 🛠️ **Foco:** Dashboards financeiros e aplicações full stack
+- ⚙️ **Stack:** React.js, Tailwind CSS, JavaScript | Node.js & MongoDB
+- 🎯 **Interesse:** UX, lógica de sistemas e construção de produtos
 
 ---
 
