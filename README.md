@@ -1,4 +1,4 @@
-### 👋 Olá, eu sou a Gabrielly Leite!
+# 👋 Olá, eu sou a Gabrielly Leite!
 
 ### 🚀 Full Stack Developer
 
