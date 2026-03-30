@@ -1,13 +1,13 @@
 # 👋 Olá, eu sou a Gabrielly Leite!
 
-### 🚀 Full Stack Developer
+### 🚀 Frontend Developer | React.js & Node.js
 
-Desenvolvendo sistemas e dashboards com foco em organização de dados e experiência do usuário.
+Atualmente desenvolvendo a Treeyo, um ecossistema financeiro para simplificar a gestão de MEIs. Focada em criar interfaces de alta performance, código limpo e soluções que resolvem problemas reais de negócio.
 
 Atualmente construindo um sistema financeiro (Treeyo), aplicando React.js, Node.js e lógica de negócios para resolver problemas reais.
 
-- 🛠️ **Foco:** Dashboards financeiros e aplicações full stack
-- ⚙️ **Stack:** React.js, Tailwind CSS, JavaScript | Node.js & MongoDB
+- 🛠️ **Foco:** Dashboard financeiro e aplicações front e back
+- ⚙️ **Stack:** React.js, Tailwind CSS, JavaScript | Node.js 
 - 🎯 **Interesse:** UX, lógica de sistemas e construção de produtos
 
 ---
