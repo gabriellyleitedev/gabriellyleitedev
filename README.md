@@ -1,13 +1,13 @@
 # 👋 Olá, eu sou a Gabrielly Leite!
 
-### 🚀 Frontend Developer | React.js & Node.js
+### 🚀 Frontend Developer | React.js & JavaScript
 
 Atualmente desenvolvendo a Treeyo, um ecossistema financeiro para simplificar a gestão de MEIs. Focada em criar interfaces de alta performance, código limpo e soluções que resolvem problemas reais de negócio.
 
 Atualmente construindo um sistema financeiro (Treeyo), aplicando React.js, Node.js e lógica de negócios para resolver problemas reais.
 
-- 🛠️ **Foco:** Dashboard financeiro e aplicações front e back
-- ⚙️ **Stack:** React.js, Tailwind CSS, JavaScript | Node.js 
+- 🛠️ **Foco:** Dashboard financeiro e aplicações front-end
+- ⚙️ **Stack:** React.js, Tailwind CSS, JavaScript 
 - 🎯 **Interesse:** UX, lógica de sistemas e construção de produtos
 
 ---
@@ -22,7 +22,6 @@ Atualmente construindo um sistema financeiro (Treeyo), aplicando React.js, Node.
 
 ### 🚀 Expandindo o Horizonte (Back-end & DB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
