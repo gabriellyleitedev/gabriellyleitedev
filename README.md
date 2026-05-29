@@ -2,11 +2,9 @@
 
 ### 🚀 Frontend Developer | React.js & JavaScript
 
-Atualmente desenvolvendo a Treeyo, um ecossistema financeiro para simplificar a gestão de MEIs. Focada em criar interfaces de alta performance, código limpo e soluções que resolvem problemas reais de negócio.
+Desenvolvedor(a) focado em construir produtos digitais de ponta a ponta. Combino código limpo, interfaces de alta performance e lógica de negócios para criar soluções que resolvem problemas reais.
 
-Atualmente construindo um sistema financeiro (Treeyo), aplicando React.js, Node.js e lógica de negócios para resolver problemas reais.
-
-- 🛠️ **Foco:** Dashboard financeiro e aplicações front-end
+- 🛠️ **Foco:** Building digital products e aplicações front-end
 - ⚙️ **Stack:** React.js, Tailwind CSS, JavaScript 
 - 🎯 **Interesse:** UX, lógica de sistemas e construção de produtos
 
@@ -33,7 +31,7 @@ Atualmente construindo um sistema financeiro (Treeyo), aplicando React.js, Node.
   </a>
 </p>
 
-> _Construindo o futuro da Treeyo, um commit de cada vez._
+> _Transformando ideias em código e construindo produtos digitais, um commit de cada vez._
 
 ---
 
