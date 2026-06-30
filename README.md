@@ -2,7 +2,7 @@
 
 ### 🚀 Frontend Developer | React.js & JavaScript
 
-Desenvolvedora focada em construir produtos digitais de ponta a ponta. Combino código limpo, interfaces de alta performance e lógica de negócios para criar soluções que resolvem problemas reais.
+Desenvolvedora focada em construir produtos digitais. Combino código limpo, interfaces de alta performance e lógica de negócios para criar soluções que resolvem problemas reais.
 
 - 🛠️ **Foco:** Building digital products e aplicações front-end
 - ⚙️ **Stack:** React.js, Tailwind CSS, JavaScript 
