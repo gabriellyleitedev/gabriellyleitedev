@@ -1,12 +1,13 @@
 # 👋 Olá, eu sou a Gabrielly!
 
-### 🚀 Frontend Developer | React.js & JavaScript
+### 🚀 Frontend Developer | React.js & TypeScript
 
-Desenvolvedora focada em construir produtos digitais. Combino código limpo, interfaces de alta performance e lógica de negócios para criar soluções que resolvem problemas reais.
+Desenvolvedora focada em construir aplicações web modernas e de alta performance. Combino código limpo, consumo de APIs e interfaces intuitivas para criar soluções digitais que resolvem problemas reais.
 
-- 🛠️ **Foco:** Building digital products e aplicações front-end
-- ⚙️ **Stack:** React.js, Tailwind CSS, JavaScript 
-- 🎯 **Interesse:** UX, lógica de sistemas e construção de produtos
+- 🛠️ **Foco:** Desenvolvimento Front-end & Aplicações Web
+- ⚙️ **Stack Principal:** React.js, TypeScript, JavaScript, Tailwind CSS
+- 🎯 **Back-End & DB:** Node.js, NestJS, PostgreSQL
+- 🎨 **Interesses:** UI/UX, arquitetura de software e construção de produtos
 
 ---
 
@@ -14,20 +15,22 @@ Desenvolvedora focada em construir produtos digitais. Combino código limpo, int
 
 ### 💻 No meu dia a dia (Core)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🚀 Expandindo o Horizonte (Back-end & DB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
 ## 🎨 Ecosystem Visual
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,js,tailwind,mongodb,postgres,git,docker,figma" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,ts,js,tailwind,postgres,git,docker,figma" />
   </a>
 </p>
 
@@ -43,7 +46,5 @@ Desenvolvedora focada em construir produtos digitais. Combino código limpo, int
 <p align="center">
   O código é a ferramenta, o produto é o impacto. 🚀
 </p>
-
-
 
 
